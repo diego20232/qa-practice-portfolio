@@ -24,7 +24,7 @@ Então ele não deve acessar o sistema
 ---
 
 
-### Cenário 4: Redirecionado para recuperação de senha
+### Cenário 4: Redirecionando para recuperação de senha
 Dado que o usuário digitou o login incorreto mais de 3 vezes
 Quando ele tentar realizar o login pela 4ª vez
 Então o sistema deve direcioná-lo para a página de recuperação de acesso
