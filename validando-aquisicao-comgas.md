@@ -1,4 +1,4 @@
-## CENÁRIOS PRA FLUXO DE AQUISIÇÃO
+## CENÁRIOS PRA FLUXO DE AQUISIÇÃO - BDD
 
 ### 1 - Pagamento Recusado:
 Dado que usuario está na tela de pagamento
